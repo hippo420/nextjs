@@ -1,0 +1,49 @@
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+
+
+body {
+  margin: 0;
+  background : #303030;
+  color : white
+}
+
+
+.title{
+  text-align: center;
+  margin-top: 150px;
+}
+.title-bar{
+  text-align: center;
+
+}
+
+.item{
+  margin: 20px auto;
+  width: 200px;
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+
+}
+.navBar{
+  background:  white;
+  padding: 20px;
+}
+
+.navBar a{
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.item-img{
+  width: 100%;
+  height: auto;
+
+}
