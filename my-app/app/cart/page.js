@@ -17,7 +17,7 @@ export default function Cart() {
                 <div key={i} >
                     <img className="item-img" src={item.img}  />
                     <h4 className="item" >
-                        {item.name} $40
+                        {item.name} $60
                     </h4>
                 </div>
             );
